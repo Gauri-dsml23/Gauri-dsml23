@@ -1,28 +1,34 @@
 👋 Hi, I’m @Gauri-dsml23
+
+
 👀 I’m interested in data analysis roles in e-commerce and finance, using Python, SQL, and Tableau. ...
+
+
 🌱 I’m currently learning
-    📊 Data Analysis using **Python**, **Pandas**, and **NumPy**
-    🧠 Supervised & Unsupervised **Machine Learning** algorithms
-    📈 Creating dashboards and visualizations using **Tableau**
-    🧮 Writing complex **SQL** queries for real-world datasets
-    🔍 Performing **EDA** (Exploratory Data Analysis)
-    🚀 Working on end-to-end ML and analytics projects
+
+- 📊 Data Analysis using **Python**, **Pandas**, and **NumPy**
+- 🧠 Supervised & Unsupervised **Machine Learning** algorithms
+- 📈 Creating dashboards and visualizations using **Tableau**
+- 🧮 Writing complex **SQL** queries for real-world datasets
+- 🔍 Performing **EDA** (Exploratory Data Analysis)
+- 🚀 Working on end-to-end ML and analytics projects
 
 💞️ I’m looking to collaborate on ...
 
 😄 Pronouns: Gau-ree!
 
 🎯 **Fun Facts About Me**
-    🧠 I’m a self-motivated learner who believes coffee and curiosity can fix almost anything ☕🧩
-    ✍️ I love taking photographs of nature and real people around me 🎨
-    📚 I enjoy breaking down complex topics into simple, visual explanations
-    🎧 I can't code without good music in the background — my playlist is sacred 🎶
-    🛡️ Passionate about self-defense (mental, emotional, and physical) to stand strong in any situation 💪
-    🚀 Dreaming big: building a career I’m proud of and living life on my own terms 💼✨
+
+- 🧠 I’m a self-motivated learner who believes coffee and curiosity can fix almost anything ☕🧩
+- ✍️ I love taking photographs of nature and real people around me 🎨
+- 📚 I enjoy breaking down complex topics into simple, visual explanations
+- 🎧 I can't code without good music in the background — my playlist is sacred 🎶
+- 🛡️ Passionate about self-defens e (mental, emotional, and physical) to stand strong in any situation 💪
+- 🚀 Dreaming big: building a career I’m proud of and living life on my own terms 💼✨
 
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role - e.g., Data Analyst | ML Enthusiast | Web Developer] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Gauri Katkar</h1>
+<h3 align="center">A passionate Data Analyst | Data Scientist| Data/ML Engineer | AI/ML Enthusiast |  from India</h3>
 
 ---
 
@@ -52,7 +58,7 @@
 - ✍️ Medium: [गौरी काटकर](https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d)  
 - 🧳 Portfolio: [DataSciencePortfolio.io](https://www.datascienceportfol.io/gauridsml23)  
 - 🧪 Kaggle: [gaurikatkar](https://www.kaggle.com/gaurikatkar)
-![image](https://github.com/user-attachments/assets/31c2de4d-287e-44c9-a77b-d223017dfa38)
+![image] (https://github.com/user-attachments/assets/31c2de4d-287e-44c9-a77b-d223017dfa38)
 
 
 ---
