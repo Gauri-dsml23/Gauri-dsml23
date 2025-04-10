@@ -13,8 +13,6 @@
 - 🔍 Performing **EDA** (Exploratory Data Analysis)
 - 🚀 Working on end-to-end ML and analytics projects
 
-💞️ I’m looking to collaborate on ...
-
 😄 Pronouns: Gau-ree!
 
 🎯 **Fun Facts About Me**
@@ -28,7 +26,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gauri Katkar</h1>
-<h3 align="center">A passionate Data Analyst | Data Scientist| Data/ML Engineer | AI/ML Enthusiast |  from India</h3>
+<h3 align="center">A passionate Data Analyst | Data Scientist | Data/ML Engineer | AI/ML Enthusiast |  from India</h3>
 
 ---
 
@@ -38,7 +36,7 @@
 - 🧮 SQL and 📊 Tableau  
 - 🛠️ Building analytical projects from scratch  
 
-👯 **I’m looking to collaborate on**  
+👯 **I’m looking to collaborate on**  💞️
 - 📂 Real-world datasets  
 - 🌍 Open-source data and ML projects  
 - 🧠 Hackathons and 🏆 analytics competitions  
@@ -64,24 +62,27 @@
 ---
 
 ### 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=mysql)
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=for-the-badge&logo=tableau)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-333?style=for-the-badge&logo=scikit-learn)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=flat-square&logo=seaborn&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-323755?style=flat-square&logo=mlflow&logoColor=white)
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
 
 ---
 
 ⭐️ From (https://github.com/Gauri-dsml23/)
 
-<!---
+
 Gauri-dsml23/Gauri-dsml23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
