@@ -49,12 +49,12 @@
 - 📈 Visualizations and dashboards  
 
 📫 **How to reach me**  
-- 📧 Email: [gauridsml23@gmail.com](mailto:gauridsml23@gmail.com)  
-- 📊 Tableau: [Tableau Public Profile](https://public.tableau.com/app/profile/gauri.katkar/vizzes)  
+- 📧 Email: [Write to me!!!](mailto:gauridsml23@gmail.com)  
+- 📊 Tableau: [Some Meaningful Visuals](https://public.tableau.com/app/profile/gauri.katkar/vizzes)  
 - 💻 GitHub: [Gauri-dsml23](https://github.com/Gauri-dsml23)  
 - 🧠 LeetCode: [BitByBit_Solver2k25](https://leetcode.com/u/BitByBit_Solver2k25/)  
-- 💼 LinkedIn: [Gauri Katkar](https://www.linkedin.com/in/gauri-katkar-09b4402aa/)  
-- ✍️ Medium: [गौरी काटकर](https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d)  
+- 💼 LinkedIn: [Gauri Katkar - Professional Background](https://www.linkedin.com/in/gauri-katkar-09b4402aa/)  
+- ✍️ Medium: [गौरी काटकर - blogs - Techinical](https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d)  
 - 🧳 Portfolio: [DataSciencePortfolio.io](https://www.datascienceportfol.io/gauridsml23)  
 - 🧪 Kaggle: [gaurikatkar](https://www.kaggle.com/gaurikatkar)
 ![image] (https://github.com/user-attachments/assets/31c2de4d-287e-44c9-a77b-d223017dfa38)
