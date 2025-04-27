@@ -17,12 +17,12 @@
 
 🎯 **Fun Facts About Me**
 
-- 🧠 I’m a self-motivated learner who believes coffee and curiosity can fix almost anything ☕🧩
-- ✍️ I love taking photographs of nature and real people around me 🎨
-- 📚 I enjoy breaking down complex topics into simple, visual explanations
-- 🎧 I can't code without good music in the background — my playlist is sacred 🎶
-- 🛡️ Passionate about self-defens e (mental, emotional, and physical) to stand strong in any situation 💪
-- 🚀 Dreaming big: building a career I’m proud of and living life on my own terms 💼✨
+- 🧠 Coffee + Curiosity = My formula for learning (and living) ☕🧩
+- 📸 I freeze real moments and wild landscapes through my lens 🎨
+- 📚 Breaking down complex stuff into bite-sized, visual stories is my superpower
+- 🎧 Good music = better code. No exceptions 🎶
+- 🛡️ Believer in standing strong — mentally, emotionally, physically 💪
+- 🚀 Chasing big dreams and designing a life that’s truly mine 💼✨
 
 
 <h1 align="center">Hi 👋, I'm Gauri Katkar</h1>
