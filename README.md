@@ -1,28 +1,37 @@
 👋 Hi, I’m @Gauri-dsml23
 
 
-👀 I’m interested in data analysis roles in e-commerce and finance, using Python, SQL, and Tableau. ...
+👀 I’m actively exploring data analysis roles in the e-commerce and finance domains, leveraging Python, SQL, and Tableau—alongside applying insights from recent hands-on projects in computer vision, NLP, and advanced machine learning.
 
+🌱 I’m currently learning...
 
-🌱 I’m currently learning
-
-- 📊 Data Analysis using **Python**, **Pandas**, and **NumPy**
-- 🧠 Supervised & Unsupervised **Machine Learning** algorithms
-- 📈 Creating dashboards and visualizations using **Tableau**
-- 🧮 Writing complex **SQL** queries for real-world datasets
-- 🔍 Performing **EDA** (Exploratory Data Analysis)
-- 🚀 Working on end-to-end ML and analytics projects
+  📊 Currently revising 21 core modules from Scaler’s Data Science & Machine Learning program, with a strong foundation in statistics, EDA, supervised learning, and end-to-end project execution.
+  
+  💡 My ongoing work includes applying ML/DL techniques to solve real-world problems—such as image classification, text analysis, and predictive modeling—while ensuring results are business-impact focused.
+  
+  📈 I’m also sharpening my skills in dashboard creation, storytelling with data, and translating analytical insights into actionable business strategies.
 
 😄 Pronouns: Gau-ree!
 
 🎯 **Fun Facts About Me**
+    
+  🧠 Puzzle Enthusiast: I can spend hours cracking logic puzzles and brain teasers—my version of meditation and mental gym!
+  
+  🎨 Freehand Sketcher: When I’m not coding or analyzing data, you’ll find me sketching real-life scenes—people, nature, and the occasional drama unfolding in my surroundings.
+  
+  🎬 Cinephile at Heart: Huge fan of Hindi and Marathi cinema (only selective English films make the cut!). Movies are my creative fuel and mood reset.
+  
+  📚 Forever Curious: Whether it’s the Indian Armed Forces, legal systems, or AI advancements—I chase knowledge like it’s a sport.
+  
+  🎧 YouTube University Graduate: I’ve probably learned more on YouTube than in a classroom—tech tricks, design hacks, and even emotional self-defense skills.
+  
+  💪 Ambitious & Gritty: I’m not afraid of hard work. My mission? To build smart AI systems that make life easier and fairer—without unnecessary hustle.
+  
+  🥊 Self-Defense Curious: I’m learning psychological and emotional self-defense to handle toxic people with grace and a strong mindset.
+  
+  🌟 Dream Big, Work Smart: I’m on a mission to earn ₹15–20 LPA not just to prove myself, but to build a life of freedom, choice, and impact.
+  
 
-- 🧠 Coffee + Curiosity = My formula for learning (and living) ☕🧩
-- 📸 I freeze real moments and wild landscapes through my lens 🎨
-- 📚 Breaking down complex stuff into bite-sized, visual stories is my superpower
-- 🎧 Good music = better code. No exceptions 🎶
-- 🛡️ Believer in standing strong — mentally, emotionally, physically 💪
-- 🚀 Chasing big dreams and designing a life that’s truly mine 💼✨
 
 
 <h1 align="center">Hi 👋, I'm Gauri Katkar</h1>
