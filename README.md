@@ -65,7 +65,9 @@
 - 💼 LinkedIn: [Gauri Katkar - Professional Background](https://www.linkedin.com/in/gauri-katkar-09b4402aa/)  
 - ✍️ Medium: [गौरी काटकर - blogs - Techinical](https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d)  
 - 🧳 Portfolio: [DataSciencePortfolio.io](https://www.datascienceportfol.io/gauridsml23)  
-- 🧪 Kaggle: [gaurikatkar](https://www.kaggle.com/gaurikatkar)
+- 🧪 Kaggle: [gaurikatkar](https://www.kaggle.com/gaurikatkar)  
+- 🎓 Scaler: [gauridsml23 at Scaler Academy](https://www.scaler.com/academy/profile/ca289a2fe7db/)
+
 ![image] (https://github.com/user-attachments/assets/31c2de4d-287e-44c9-a77b-d223017dfa38)
 
 
