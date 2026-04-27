@@ -1,4 +1,4 @@
-👋 Hi, I’m @Gauri-dsml23 - Data Analyst | Scaler DSML Professional | Python, SQL, Tableau | E-Commerce & Inventory Analytics
+👋 Hi, I’m @Gauri-dsml23 - Data Analyst | Scaler DSML Professional | Python, SQL, Tableau | E-Commerce Analytics | Inventory, Content & Brand Store Management | Product Listings
 
 
 👀 I’m actively exploring data analysis roles in the e-commerce and finance domains, leveraging Python, SQL, and Tableau—alongside applying insights from recent hands-on projects in computer vision, NLP, and advanced machine learning.
