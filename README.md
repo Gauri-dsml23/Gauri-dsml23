@@ -5,11 +5,11 @@
 
 🌱 I’m currently learning...
 
-  📊 Currently revising 21 core modules from Scaler’s Data Science & Machine Learning program, with a strong foundation in statistics, EDA, supervised learning, and end-to-end project execution.
+ 📊 Currently strengthening my foundation across core data science concepts, including statistics, exploratory data analysis, supervised learning, and end-to-end project execution through structured training and hands-on practice.
   
-  💡 My ongoing work includes applying ML/DL techniques to solve real-world problems—such as image classification, text analysis, and predictive modeling—while ensuring results are business-impact focused.
+💡 Actively applying machine learning and deep learning techniques to real-world problems such as image classification, text analytics, and predictive modeling, with a focus on delivering meaningful, business-oriented insights.
   
-  📈 I’m also sharpening my skills in dashboard creation, storytelling with data, and translating analytical insights into actionable business strategies.
+  📈 Continuously enhancing skills in dashboard development, data storytelling, and translating analytical findings into clear, actionable strategies for business decision-making.
 
 😄 Pronouns: Gau-ree!
 
@@ -17,7 +17,7 @@
     
   🧠 Puzzle Enthusiast: I can spend hours cracking logic puzzles and brain teasers—my version of meditation and mental gym!
   
-  🎨 Freehand Sketcher: When I’m not coding or analyzing data, you’ll find me sketching real-life scenes—people, nature, and the occasional drama unfolding in my surroundings.
+  📸 Photography Enthusiast: Outside of data, I explore photography, capturing nature, people, animals, and candid moments from my surroundings.
   
   🎬 Cinephile at Heart: Huge fan of Hindi and Marathi cinema (only selective English films make the cut!). Movies are my creative fuel and mood reset.
   
@@ -29,10 +29,8 @@
   
   🥊 Self-Defense Curious: I’m learning psychological and emotional self-defense to handle toxic people with grace and a strong mindset.
   
-  🌟 Dream Big, Work Smart: I’m on a mission to earn ₹15–20 LPA not just to prove myself, but to build a life of freedom, choice, and impact.
+ 🌟 Dream Big, Work Smart: Committed to building a career that reflects my potential, rewards my effort, and enables a life of choice and purpose.
   
-
-
 
 <h1 align="center">Hi 👋, I'm Gauri Katkar</h1>
 <h3 align="center">A passionate Data Analyst | Data Scientist | Data/ML Engineer | AI/ML Enthusiast |  from India</h3>
